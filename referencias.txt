@@ -1,0 +1,1 @@
+Para hacer user con pass https://symfonycasts.com/screencast/symfony-security/make-user
